@@ -1,0 +1,58 @@
+body{
+    font-family:cursive;
+    background-color: white;
+    color: black;
+    line-height: 1.6;
+}
+
+/* Header styles */
+header {
+    background-color: chocolate;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}   
+nav ul li a {
+    color: white;
+    text-decoration: underline;
+}
+
+/*Section styles */
+section {
+    padding: 20px;
+    margin: 15px 0;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+section p {
+    font-size: 18px;
+}
+
+section h2 {
+    color: chocolate;
+    text-align: center;
+    font-size: 28px;
+}   
+
+/* Footer styles */
+footer {
+    background-color:chocolate;
+    color: black;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+
